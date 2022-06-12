@@ -3,12 +3,12 @@ entries:
   wallet-server:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-06-12T01:50:28.033162654Z"
+    created: "2022-06-12T03:15:25.532657431Z"
     description: A Helm chart for Kubernetes
-    digest: cbe27a1abc49451203cbeb90d21a4a2ca6c16a5ee57ea868a09fe2d326eddd53
+    digest: 52b9e27c148b22f3f62c6a52cdc9ed9f3bc10aff0ffa44835c76a7b4008f73dc
     name: wallet-server
     type: application
     urls:
     - https://sodiumlabs.github.io/charts/wallet-server/wallet-server-0.1.2.tgz
     version: 0.1.2
-generated: "2022-06-12T01:50:28.03234145Z"
+generated: "2022-06-12T03:15:25.531776919Z"
